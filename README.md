@@ -1,4 +1,5 @@
 ![HDI Logo](thumb.jpg)
+
 #Human Development Index Analysis Application
 The aim of this project is to create an application which:
 1. scrapes the most recent HDI score for each country from the Wikipedia HDI article;
